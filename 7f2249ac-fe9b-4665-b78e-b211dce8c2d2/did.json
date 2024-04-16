@@ -1,0 +1,23 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1"
+    ],
+    "id": "did:web:Sreejit-K.github.io:VCTest:7f2249ac-fe9b-4665-b78e-b211dce8c2d2",
+    "alsoKnownAs": [],
+    "service": [],
+    "verificationMethod": [
+        {
+            "id": "did:web:Sreejit-K.github.io:VCTest:7f2249ac-fe9b-4665-b78e-b211dce8c2d2#key-0",
+            "type": "Ed25519VerificationKey2020",
+            "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+            "controller": "did:web:Sreejit-K.github.io:VCTest:7f2249ac-fe9b-4665-b78e-b211dce8c2d2",
+            "publicKeyMultibase": "z6MkumS85EW5upJoAKhVFx9HVTaTBYoYg4XrvA73vfp8ZHdx"
+        }
+    ],
+    "authentication": [
+        "did:web:Sreejit-K.github.io:VCTest:7f2249ac-fe9b-4665-b78e-b211dce8c2d2#key-0"
+    ],
+    "assertionMethod": [
+        "did:web:Sreejit-K.github.io:VCTest:7f2249ac-fe9b-4665-b78e-b211dce8c2d2#key-0"
+    ]
+}
